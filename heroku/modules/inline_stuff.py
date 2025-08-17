@@ -129,7 +129,7 @@ class InlineStuff(loader.Module):
 
         if message.text == "/start":
             await message.answer_photo(
-                "https://raw.githubusercontent.com/coddrago/assets/refs/heads/main/heroku/start_cmd.png",
+                "https://i.postimg.cc/d09qGxBK/file-000000001ed461f4b4ea98455e41b681.png",
                 caption=self.strings("this_is_heroku"),
             )
 
