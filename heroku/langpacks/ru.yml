@@ -1,4 +1,4 @@
-heroku_security:
+  heroku_security:
   invalid_name: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Неправильное имя</b>"
   no_command: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Команда</b> <code>{}</code> <b>не найдена!</b>"
   permissions: "🔐 <b>Здесь можно настроить разрешения для команды</b> <code>{}{}</code>"
@@ -326,8 +326,6 @@ inline_stuff:
   bot_username_occupied: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Такой ник бота уже занят</b>"
   bot_updated: "<emoji document_id=6318792204118656433>🎉</emoji> <b>Настройки сохранены. Для их применения нужно перезагрузить юзербот</b>"
   this_is_heroku: "<b>🌸 Barinov is a telegram userbot. Developer: @barinsk</b>"
-<b><i><a href="https://t.me/barinsk">Разработчик ~</a></i></b><br><br>
-<b><i><a href="https://t.me/babidjonprotivniy">Крутой чат ~</a></i></b>"
   profile_cmd: "ℹ️ Основная информация об юзерботе\n\n<blockquote>• Префикс: {prefix}\n• Использование RAM: {ram_usage} МБ\n• Использование CPU: {cpu_usage}%\n• Хостинг: {host}</blockquote>"
   restart: "🔄 Ваша Heroku перезапускается..."
   prefix_reset: "🔀 Префикс сброшен!"
