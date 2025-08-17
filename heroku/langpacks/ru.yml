@@ -325,7 +325,9 @@ inline_stuff:
   token_invalid: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Указанный токен бота недействителен. Он должен содержать 8-10 цифр, </b><code>:</code> <b>и 34-36 символов</b>"
   bot_username_occupied: "<emoji document_id=5210952531676504517>🚫</emoji> <b>Такой ник бота уже занят</b>"
   bot_updated: "<emoji document_id=6318792204118656433>🎉</emoji> <b>Настройки сохранены. Для их применения нужно перезагрузить юзербот</b>"
-  this_is_heroku: "<b>Привет! Это юзербот barinov — мощный Telegram юзербот. </b>\n\n<b> <a href=\"https://t.me/barinsk\">dev</a></b>\n</b> "
+  this_is_heroku: "<b>🌸 Привет! Это Barinov - telegram юзербот!</b><br><br>
+<b><i><a href="https://t.me/barinsk">Разработчик ~</a></i></b><br><br>
+<b><i><a href="https://t.me/babidjonprotivniy">Крутой чат ~</a></i></b>"
   profile_cmd: "ℹ️ Основная информация об юзерботе\n\n<blockquote>• Префикс: {prefix}\n• Использование RAM: {ram_usage} МБ\n• Использование CPU: {cpu_usage}%\n• Хостинг: {host}</blockquote>"
   restart: "🔄 Ваша Heroku перезапускается..."
   prefix_reset: "🔀 Префикс сброшен!"
